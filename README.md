@@ -1,4 +1,4 @@
-# wgpu_unlit_render_asset_files
+# unlit3d_asset_files
 
 Snapshot images for the `wgpu_unlit_render` GPU integration tests.
 
